@@ -17,7 +17,7 @@ variable "do_image_name" {
 
 # Default image name to use
 variable "do_default_size" {
-  default = "2gb"
+  default = "s-1vcpu-2gb"
 }
 
 # There to launch the instance
